@@ -1,3 +1,4 @@
 # Demo
-This is my first git repository
-Author  - Saurabh Netake
+This is my first git repository.
+<br>
+Author - Saurabh Netake.
